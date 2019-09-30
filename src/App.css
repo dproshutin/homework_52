@@ -4,6 +4,13 @@
 .btn {
   margin: 30px 0;
 }
+.btn button {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 2px #ccc;
+  color: red;
+}
 .lotto {
   margin: 0 auto;
   display: flex;
@@ -15,5 +22,8 @@
   height: 50px;
   border-radius: 50%;
   border: 1px solid #ccc;
+  box-shadow: 0 2px 2px #ccc;
   color: blue;
+  font-weight: 700;
+  background-color: lightyellow;
 }
